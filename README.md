@@ -1,0 +1,2 @@
+# BDWenxinyiyanWaterMarkerRemover
+百度文心一言水印移除脚本
